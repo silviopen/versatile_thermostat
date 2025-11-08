@@ -5,7 +5,7 @@
     "step": {
       "user": {
         "title": "Tipo di Versatile Thermostat",
-	"description": "Scegliere il tipo di termostato che si desidera creare&nbsp;[![?](https://img.icons8.com/color/18/help.png)](https://github.com/jmcollin78/versatile_thermostat/blob/main/documentation/fr/creation.md)", 
+	    "description": "Scegliere il tipo di termostato che si desidera creare&nbsp;[![?](https://img.icons8.com/color/18/help.png)](https://github.com/jmcollin78/versatile_thermostat/blob/main/documentation/fr/creation.md)", 
         "data": {
           "thermostat_type": "Tipo di termostato"
         },
