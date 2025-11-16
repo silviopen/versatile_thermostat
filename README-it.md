@@ -1,4 +1,8 @@
-[![Github release][releases-shield]][releases][![Github attività][commits-shield]][commits][![Licenza][scudo di licenza]](LICENSE)[![hacs][hacs_badge]][hacs][![Buymecoffee][buymecoffeebadge]][buymecoffee]
+[![GitHub Release][releases-shield]][releases]
+[![GitHub Activity][commits-shield]][commits]
+[![License][license-shield]](LICENSE)
+[![hacs][hacs_badge]][hacs]
+[![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
 # Versatile thermostat
 
