@@ -7,7 +7,7 @@
 # Versatile Thermostat
 
 This README file is available in
-languages : [English](README.md) | [Français](README-fr.md) | [Deutsch](README-de.md) | [Čeština](README-cs.md) | [Polski](README-pl.md)
+languages : [English](README.md) | [Čeština](README-cs.md) | [Deutsch](README-de.md) | [Français](README-fr.md) | [Italiano](README-it.md) | [Deutsch](README-de.md) | [Polski](README-pl.md)
 <div> <br> </div>
 <p align="center">
 <img src="https://github.com/jmcollin78/versatile_thermostat/blob/main/images/icon.png" />
