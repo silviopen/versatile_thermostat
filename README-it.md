@@ -14,9 +14,9 @@ Questo file README è disponibile in lingue : [English](README.md) | [Čeština]
 
 > ![Suggerimento](images/tips.png) Suggerimento
 
-Questa integrazione del termostato mira a semplificare notevolmente le vostre automazioni di gestione del riscaldamento. Poiché tutti i tipici eventi di riscaldamento (casa di nessuno?, attività rilevata in una stanza?, finestra aperta?, spargimento di carico di energia?), sono nativamente gestiti dal termostato, non è necessario gestire le automazioni. ;-). [Questo componente personalizzato per Home Assistant è un aggiornamento e una riscrittura completa del componente "Awesome termostat" (vedi](https://github.com/dadge/awesome_thermostat)Github
+Questa integrazione del termostato mira a semplificare notevolmente le vostre automazioni di gestione del riscaldamento. Poiché tutti i tipici eventi di riscaldamento (casa di nessuno?, attività rilevata in una stanza?, finestra aperta?, spargimento di carico di energia?), sono nativamente gestiti dal termostato, non è necessario gestire le automazioni. ;-). [Questo componente personalizzato per Home Assistant è un aggiornamento e una riscrittura completa del componente "Awesome termostat" (vedi (https://github.com/dadge/awesome_thermostat)Github)]
 
-# ) con le caratteristiche aggiunte.
+# con le caratteristiche aggiunte.
 
 Screenshots [Versatile Thermostat UI Card (Disponibile su](https://github.com/jmcollin78/versatile-thermostat-ui-card)Github
 
