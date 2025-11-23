@@ -1,9 +1,4 @@
-[![GitHub Release][releases-shield]]
-[Releases]
-[![GitHub Activity][commits-shield]][commits]
-[![License][license-shield]](LICENSE)
-[![hacs][hacs_badge]][hacs]
-[![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
+
 
 # Versatile Thermostat
 
