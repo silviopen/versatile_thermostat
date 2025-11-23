@@ -1,4 +1,5 @@
 [![GitHub Release][releases-shield]]
+[Release]
 [![GitHub Activity][commits-shield]][commits]
 [![License][license-shield]](LICENSE)
 [![hacs][hacs_badge]][hacs]
